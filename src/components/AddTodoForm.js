@@ -18,6 +18,7 @@ const AddTodoForm = () => {
         })
       );
     }
+    setValue("");
   };
 
   return (
